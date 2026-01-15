@@ -17,7 +17,7 @@ Visualising data with Python unlocks powerful ways to transform raw data into ac
      </td>
 
   <td>
-     <a href="https://github.com/hueeylow/python/blob/main/data_w_python/md" target="_blank"> <img width="1700 height="180" alt="image" src="https://github.com/user-attachments/assets/a48bc803-af34-4fab-85b8-2653be47da0c" /></a>
+     <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1800 height="180" alt="image" src="https://github.com/user-attachments/assets/a48bc803-af34-4fab-85b8-2653be47da0c" /></a>
 </td>
   </tr>
  </table>
