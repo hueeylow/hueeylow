@@ -15,9 +15,8 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Python: Visualise Data with Python</a></b><br><br> 
 Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. By presenting these insights through clear and interactive charts, I was able to highlight key opportunities for business growth and support data-driven decision-making.
      </td>
-
   <td>
-     <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1800 height="180" alt="image" src="https://github.com/user-attachments/assets/a48bc803-af34-4fab-85b8-2653be47da0c" /></a>
+     <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/dd959449-7313-4558-9a5c-80f4562329e1" /></a>
 </td>
   </tr>
  </table>
