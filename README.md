@@ -13,7 +13,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
  <table width="500">
   <tr>
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Python: Visualise Data with Python</a></b><br><br> 
-Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. By presenting these insights through clear and interactive charts, I was able to highlight key opportunities for business growth and support data-driven decision-making.
+Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. By presenting these insights through clear and informative charts, I was able to highlight key opportunities for business growth and support data-driven decision-making.
      </td>
   <td>
      <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/dd959449-7313-4558-9a5c-80f4562329e1" /></a>
@@ -28,7 +28,7 @@ Visualising data with Python unlocks powerful ways to transform raw data into ac
      <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(2) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my NUS-ISS practicum assessment which was designed and built to simulate a performance monitoring tool on testing activities of a digital fintech product. Some key features of the dashboard are – Test Execution Status, Performance Metrics, User Story Points Coverage, Defect metrics. The primary users are testers, developers, product owners, and business analysts who will leverage the dashboard to track testing progress, monitor defect status and prioritise issues. The dataset utilises self-populated data that mirror the likely challenges encountered in product development. </td>
 
 <td>
-<a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/Agile_Testing_Main.jpg" height="180" width="280"/> </a></td>
+<a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/Agile_Testing_Main.jpg" height="180" width="250"/> </a></td>
  </tr>
 
    
