@@ -23,7 +23,7 @@ Visualising data with Python unlocks powerful ways to transform raw data into ac
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(2) Hypertension Prediction with Machine Learning</a></b><br><br> 
-Logistic regression is a commonly used machine learning technique for binary classification that estimates the probability of an outcome and assigns class labels accordingly. In this illustration, a hypertension dataset was used to analyze patterns and classify individuals based on their risk of developing hypertension.
+Logistic regression is a widely used machine learning technique for binary classification that predicts the probability of an outcome and classifies individuals based on learned patterns. In this illustration, a hypertension dataset was utilized to explore key risk factors and classify individuals according to their likelihood of developing hypertension. This approach not only reveals the underlying relationships within the data but also demonstrates the practical application of logistic regression in predicting health outcomes and supporting data-driven decision-making.
 
   <td>
      <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" /></a>
