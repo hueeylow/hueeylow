@@ -13,7 +13,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
  <table width="500">
   <tr>
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Health Supplement Sales Visualisation with Python</a></b><br><br> 
-Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. Through clear and interactive charts, the insights highlight key opportunities for business growth and supports data-driven decision-making.
+Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. Through clear and informative charts, the insights highlight key opportunities for business growth and supports data-driven decision-making.
      </td>
   <td>
      <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" /></a>
