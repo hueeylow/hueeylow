@@ -24,7 +24,7 @@ Visualising data with Python unlocks powerful ways to transform raw data into ac
   <tr>
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(2) Hypertension Prediction with Machine Learning</a></b><br><br> 
 
-Classification using logistic regression techqniue are often used machine learning technique for binary classification to predict the probability of an outcome and assigns a class based on a threshold. In this illustration, a use case was built with Hypertension dataset to analyse the patterns and predict the risk of hypertension in individuals.
+Classification using logistic regression are often used machine learning technique for binary classification to predict the probability of an outcome and assign a class based on a threshold. In this illustration, Hypertension dataset was used to analyse the patterns and predict the risk of hypertension in individuals.
 
   <td>
      <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" /></a>
