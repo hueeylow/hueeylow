@@ -7,7 +7,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 ## Technical Skills
 💻 🛠 : SQL / TABLEAU / POWER-BI / PYTHON / HTML / CSS
 
-#### Check out my Projects Demo:
+#### Check out my Project Illustrations:
 
 
  <table width="500">
