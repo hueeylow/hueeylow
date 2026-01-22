@@ -39,7 +39,7 @@ Classification using logistic regression techqniue are often used machine learni
      <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(3) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my NUS-ISS practicum assessment which was designed and built to simulate a performance monitoring tool on testing activities of a digital fintech product. Some key features of the dashboard are – Test Execution Status, Performance Metrics, User Story Points Coverage, Defect metrics. The primary users are testers, developers, product owners, and business analysts who will leverage the dashboard to track testing progress, monitor defect status and prioritise issues. The dataset utilises self-populated data that mirror the likely challenges encountered in product development. </td>
 
 <td>
-<a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/Agile_Testing_Main.jpg" height="180" width="280"/> </a></td>
+<a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank"><img src= "https://github.com/user-attachments/assets/13b7a3f0-741b-4984-95d4-7e5a2fb5b922"" height="180" width="280"/> </a></td>
  </tr>
 
    
@@ -57,7 +57,7 @@ Classification using logistic regression techqniue are often used machine learni
     </td>
   <td>
 
-<a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/LondonBus_Icon.gif" height="180" width="280"/> </a></td>
+<a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://github.com/user-attachments/assets/213c904b-aee6-4fe1-9bf4-5f7cbc5cc11f" height="180" width="280"/> </a></td>
    
   </tr>
 </table> 
@@ -78,7 +78,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
      We are connected with data in almost everywhere of our lives. The collected data are often in complex and unstructured form that require data cleansing steps to transform them into a usable format, ensuring accuracy and reliability for further analysis and decision-making. In this demo, I will walk through some essential steps of data cleansing using SQL to process raw data for more effective use.
      </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" height="180" width="260"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/user-attachments/assets/36c53b4d-c57b-4162-a276-a113e442c4ae" height="180" width="280"/> </a></td>
   </tr>
 
   <tr>
@@ -86,9 +86,9 @@ The custom-built SQL database demo was to emphasise the importance of creating e
 Structured Query Language (SQL) is a powerful scripting language where it helps to manipulate data in relational databases like Microsoft SQL, Oracle, mySQL, PostgreSQL, and Microsoft Access. It is essential for data management and analysis in large organisations, enabling efficient extraction of valuable insights. Find out various ways to query a database, from basic data retrieval to more advanced operations in navigating a relational dataset.
      </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" height="180" width="260"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/user-attachments/assets/1cd8f499-3c14-4efd-a146-348136835a3c" height="180" width="280"/> </a></td>
   </tr>
-  
+
 </table> 
 
 
