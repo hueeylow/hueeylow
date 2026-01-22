@@ -78,7 +78,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
      We are connected with data in almost everywhere of our lives. The collected data are often in complex and unstructured form that require data cleansing steps to transform them into a usable format, ensuring accuracy and reliability for further analysis and decision-making. In this demo, I will walk through some essential steps of data cleansing using SQL to process raw data for more effective use.
      </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" height="180" width="280"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" height="180" width="260"/> </a></td>
   </tr>
 
   <tr>
@@ -86,7 +86,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
 Structured Query Language (SQL) is a powerful scripting language where it helps to manipulate data in relational databases like Microsoft SQL, Oracle, mySQL, PostgreSQL, and Microsoft Access. It is essential for data management and analysis in large organisations, enabling efficient extraction of valuable insights. Find out various ways to query a database, from basic data retrieval to more advanced operations in navigating a relational dataset.
      </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" height="180" width="280"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" height="180" width="260"/> </a></td>
   </tr>
   
 </table> 
