@@ -12,13 +12,25 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Python: Visualise Data with Python</a></b><br><br> 
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Health Supplement Sales Visualisation with Python</a></b><br><br> 
 Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. By presenting these insights through clear and interactive charts, I was able to highlight key opportunities for business growth and support data-driven decision-making.
      </td>
   <td>
      <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/dd959449-7313-4558-9a5c-80f4562329e1" /></a>
 </td>
   </tr>
+
+  <tr>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(1) Hypertension Prediction with Machine Learning</a></b><br><br> 
+
+Classification using logistic regression techqniue are often used machine learning technique for binary classification to predict the probability of an outcome and assigns a class based on a threshold. In this illustration, a use case was built with Hypertension dataset to analyse the patterns and predict the hypertension risk.
+
+  <td>
+     <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/dd959449-7313-4558-9a5c-80f4562329e1" /></a>
+</td>
+  </tr>
+
+  
  </table>
 
  
