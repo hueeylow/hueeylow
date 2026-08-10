@@ -19,7 +19,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 </td>
 <td>
 
-<a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" height="1200" width="1900"/> </a></td>
+<a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" height="1200" width="1850"/> </a></td>
  </tr>
 
    
@@ -30,7 +30,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
      
 
   <td>
-<a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" height="1200" width="1900"/> </a> </td> </tr>
+<a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" height="1200" width="1850"/> </a> </td> </tr>
 
 </table> 
  
@@ -49,7 +49,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
    
   <td>
-<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/DB_snapshot_interactive.gif" height="180" width="250"/> </a></td>
+<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/DB_snapshot_interactive.gif" height="180" width="280"/> </a></td>
    
   </tr>
 
@@ -58,7 +58,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
     </td>
   <td>
 
-<a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://github.com/user-attachments/assets/213c904b-aee6-4fe1-9bf4-5f7cbc5cc11f" height="180" width="250"/> </a></td>
+<a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://github.com/user-attachments/assets/213c904b-aee6-4fe1-9bf4-5f7cbc5cc11f" height="180" width="280"/> </a></td>
    
   </tr>
 </table> 
@@ -70,7 +70,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 The custom-built SQL database demo was to emphasise the importance of creating efficient and well-organised data table structures. A thoughtful structured dataset not only improves performance and query response time, but also allow seamless integration with other applications, such as generating dynamic query results through user interfaces or enabling real-time data analytics.
      </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" height="180" width="250"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" height="180" width="280"/> </a></td>
   </tr>
 
 
@@ -87,7 +87,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
 Structured Query Language (SQL) is a powerful scripting language where it helps to manipulate data in relational databases like Microsoft SQL, Oracle, mySQL, PostgreSQL, and Microsoft Access. It is essential for data management and analysis in large organisations, enabling efficient extraction of valuable insights. Find out various ways to query a database, from basic data retrieval to more advanced operations in navigating a relational dataset.
      </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/user-attachments/assets/1cd8f499-3c14-4efd-a146-348136835a3c" height="180" width="250"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/user-attachments/assets/1cd8f499-3c14-4efd-a146-348136835a3c" height="180" width="280"/> </a></td>
   </tr>
 
 </table> 
