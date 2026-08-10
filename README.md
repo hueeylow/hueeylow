@@ -13,6 +13,10 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 <table width="500">
 
 <tr>
+<th colspan="2" align="left">Python and Machine Learning</th>
+</tr>
+
+<tr>
      <td><b><a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Health Supplement Sales Visualisation with Python</a> </b><br><br> 
      Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. Through clear and informative charts, the insights highlight key opportunities for business growth and supports data-driven decision-making.
      
@@ -35,6 +39,9 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 </table> 
  
  <table width="500">
+<tr>
+<th colspan="2" align="left">Dashboard Analytics & Visualisation</th>
+</tr>
 
 <tr>
      <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(3) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my NUS-ISS practicum assessment which was designed and built to simulate a performance monitoring tool on testing activities of a digital fintech product. Some key features of the dashboard are – Test Execution Status, Performance Metrics, User Story Points Coverage, Defect metrics. The primary users are testers, developers, product owners, and business analysts who will leverage the dashboard to track testing progress, monitor defect status and prioritise issues. The dataset utilises self-populated data that mirror the likely challenges encountered in product development. </td>
@@ -65,6 +72,8 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
 
  <table width="500">
+
+<th colspan="2" align="left">SQL</th>
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(6) Building SQL Database: Housing Built-To-Order </a> </b><br><br>
 The custom-built SQL database demo was to emphasise the importance of creating efficient and well-organised data table structures. A thoughtful structured dataset not only improves performance and query response time, but also allow seamless integration with other applications, such as generating dynamic query results through user interfaces or enabling real-time data analytics.
