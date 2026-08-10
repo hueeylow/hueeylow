@@ -19,7 +19,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 </td>
 <td>
 
-<a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" height="1400" width="2300"/> </a></td>
+<a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" height="1400" width="2500"/> </a></td>
  </tr>
 
    
@@ -30,7 +30,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
      
 
   <td>
-<a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" height="1400" width="2300"/> </a> </td> </tr>
+<a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" height="1400" width="2500"/> </a> </td> </tr>
 
 </table> 
  
