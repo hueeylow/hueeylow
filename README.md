@@ -1,5 +1,5 @@
 ## About Me
-Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects demo, utilising a variety of tools such as Tableau, Power BI, SQL and Python.  Whether it's building interactive visualisations, analysing complex datasets, or developing data-driven solutions, I enjoy combining these technologies to effectively showcase my concepts and ideas. 
+Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects, utilising a variety of tools such as Power Automate, Power Apps, Power BI, Tableau, SQL and Python.  Whether it's building AI-powered driven apps, process workflow automation, interactive visualizations, analysing complex datasets, or developing data analytics solutions, I enjoy combining these technologies to illustrate my concepts and ideas. 
 
 Feel free to add me on LinkedIn to stay connected and view more of my work.
 <br>
