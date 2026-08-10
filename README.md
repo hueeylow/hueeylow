@@ -5,33 +5,34 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 <br>
 
 ## Technical Skills
-💻 🛠 : SQL / TABLEAU / POWER-BI / PYTHON / HTML / CSS
+💻 🛠 : Power Platform /  Power Automate / Power App / Power BI / Tableau / SQL / PYTHON / HTML / CSS
 
 #### Check out my Project Illustrations:
 
 
- <table width="500">
-  <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Health Supplement Sales Visualisation with Python</a></b><br><br> 
-Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. Through clear and informative charts, the insights highlight key opportunities for business growth and supports data-driven decision-making.
-     </td>
-  <td>
-     <a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" /></a>
+<table width="500">
 
+<tr>
+     <td><b><a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(1) Health Supplement Sales Visualisation with Python</a> </b><br><br> 
+     Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. Through clear and informative charts, the insights highlight key opportunities for business growth and supports data-driven decision-making.
+     
 </td>
-  </tr>
+<td>
 
+<a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/7dd20d36-dbfa-4350-9b87-010c14480dcc" height="1200" width="1850"/> </a></td>
+ </tr>
+
+   
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(2) Hypertension Prediction with Machine Learning</a></b><br><br> 
-Logistic regression is a widely used machine learning technique for binary classification that predicts the probability of an outcome and classifies individuals based on learned patterns. In this illustration, a hypertension dataset was utilized to explore key risk factors and classify individuals according to their likelihood of developing hypertension. This approach not only reveals the underlying relationships within the data but also demonstrates the practical application of logistic regression in predicting health outcomes and supporting data-driven decision-making.
+     <td><b><a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(2) Hypertension Prediction with Machine Learning</a> </b><br><br>
+     Logistic regression is a widely used machine learning technique for binary classification that predicts the probability of an outcome and classifies individuals based on learned patterns. In this illustration, a hypertension dataset was utilized to explore key risk factors and classify individuals according to their likelihood of developing hypertension. This approach not only reveals the underlying relationships within the data but also demonstrates the practical application of logistic regression in predicting health outcomes and supporting data-driven decision-making.
+     
+     
 
   <td>
-     <a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"> <img width="1700" height="180" alt="image" src="https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" /></a>
-</td>
-  </tr>
+<a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank"><img src= "https://github.com/user-attachments/assets/2377e434-af59-4196-bedf-20e614da2f05" height="1200" width="1850"/> </a> </td> </tr>
 
- </table>
-
+</table> 
  
  <table width="500">
 
