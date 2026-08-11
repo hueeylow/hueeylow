@@ -1,5 +1,5 @@
 ## About Me
-Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects, utilising a variety of tools such as <b> Power Automate, Power Apps, Power BI, Tableau, SQL</b> and <b>Python</b>.  Whether it's building AI-powered driven apps, process workflow automation, interactive visualizations, analysing complex datasets, or developing data analytics solutions, I enjoy combining these technologies to illustrate my concepts and ideas. 
+Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects, utilising a variety of tools such as <b> Power Automate, Power Apps, Power BI, Tableau, SQL</b> and <b>Python</b>.  Whether it's building AI-driven apps, process workflow automation, interactive visualizations, analysing complex datasets, or developing data analytics solutions, I enjoy bringing these technologies together to turn ideas into practical solutions. 
 <br>
 
 ## Technical Skills
