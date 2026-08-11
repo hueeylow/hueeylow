@@ -15,7 +15,7 @@ Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My back
 
 <tr>
      <td><b><a href="https://github.com/hueeylow/power_automate/blob/main/multi_appvr.md" target="_blank">(1) Expense Claim Multi-Approval using Power Automate & SharePoint List</a> </b><br><br> 
-A streamlined expense approval solution built using Power Automate and SharePoint List to automate a two-level approval workflow. The solution routes expense claims to the requester’s manager for first-level approval, followed by Finance for second-level approval. Approval statuses are automatically updated in SharePoint, while timely Teams notifications keep requestors informed throughout the process. By reducing manual intervention, the solution improves process efficiency, transparency, and accountability while providing centralized tracking and clear visibility of each expense claim throughout the approval lifecycle.
+A streamlined expense approval solution built using Power Automate and SharePoint Lists to automate a two-level approval workflow. Expense claims are routed to the requester’s manager for first-level approval, followed by Finance for second-level approval. The solution automatically updates approval statuses in SharePoint and sends timely Teams notifications to requestors. This reduces manual intervention, improves efficiency and transparency, and provides centralized tracking and visibility throughout the expense approval process.
      
 </td>
 <td>
