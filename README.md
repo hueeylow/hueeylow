@@ -119,8 +119,10 @@ Structured Query Language (SQL) is a powerful scripting language where it helps 
 
 
 
-#### Other Past Viz Project from Work
-- Market Share Trading Performance Dashboard (Power BI)
+#### Other Past Dashboard Work Projects (Power BI)
+- Data Library for Property Performance
+- Project Milestones KPI Tracker
+- Market Share Trading Performance
 
 <br>
 Stay tuned for more projects demo
