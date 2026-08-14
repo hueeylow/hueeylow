@@ -10,7 +10,7 @@ Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My back
 <table width="500">
 
 <tr>
-<th colspan="2" align="left">Power Automate</th>
+<th colspan="2" align="left">Power Platform</th>
 </tr>
 
 <tr>
