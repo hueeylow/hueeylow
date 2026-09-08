@@ -20,7 +20,7 @@ Hotdesking offers flexibility and better use of office space, but without a cent
 </td>
 <td>
 
-<a href="https://github.com/hueeylow/power_app/blob/main/chopemydesk.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/PowerAutomateIcon.png" height="1200" width="1850"/> </a></td>
+<a href="https://github.com/hueeylow/power_app/blob/main/chopemydesk.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/chopelogo.png" height="1200" width="1850"/> </a></td>
  </tr>
 
 <tr>
