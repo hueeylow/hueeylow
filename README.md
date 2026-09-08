@@ -14,6 +14,16 @@ Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My back
 </tr>
 
 <tr>
+     <td><b><a href="https://github.com/hueeylow/power_app/blob/main/chopemydesk.md" target="_blank">(1) Chope My Desk Portal with Power App </a> </b><br><br> 
+Hotdesking offers flexibility and better use of office space, but without a centralised booking system, finding an available desk can quickly become a hassle. Chope My Desk Portal, built as a Microsoft Power Apps Canvas App, simplifies the experience by providing one centralised platform to check desk availability, book a desk, and manage reservations. This project showcases the application’s process design, workflow, and functionality for a smarter hotdesking experience.
+     
+</td>
+<td>
+
+<a href="https://github.com/hueeylow/power_automate/blob/main/multi_appvr.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/PowerAutomateIcon.png" height="1200" width="1850"/> </a></td>
+ </tr>
+
+<tr>
      <td><b><a href="https://github.com/hueeylow/power_automate/blob/main/multi_appvr.md" target="_blank">(1) Expense Claim Multi-Approval using Power Automate & SharePoint List</a> </b><br><br> 
 A streamlined expense approval solution built using Power Automate and SharePoint Lists to automate a two-level approval workflow. Expense claims are routed to the requester’s manager for first-level approval, followed by Finance for second-level approval. The solution automatically updates approval statuses in SharePoint and sends timely Teams notifications to requestors. This reduces manual intervention, improves efficiency and transparency, and provides centralized tracking and visibility throughout the expense approval process.
      
