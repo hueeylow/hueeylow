@@ -1,9 +1,9 @@
 ## About Me
-Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects, utilising a variety of tools such as <b> Power Automate, Power Apps, Power BI, Tableau, SQL</b> and <b>Python</b>.  Whether it's building AI-driven apps, process workflow automation, interactive visualizations, analysing complex datasets, or developing data analytics solutions, I enjoy bringing these technologies together to turn ideas into practical solutions. 
+Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects, utilising a variety of tools such as <b> Copilot Studio, Power Automate, Power Apps, Power BI, Tableau, SQL</b> and <b>Python</b>.  Whether it's building AI-driven apps, process workflow automation, interactive visualizations, analysing complex datasets, or developing data analytics solutions, I enjoy bringing these technologies together to turn ideas into practical solutions. 
 <br>
 
 ## Technical Skills
-💻 🛠 : Power Platform /  Power Automate / Power App / Power BI / Tableau / SQL / PYTHON / HTML / CSS
+💻 🛠 : AI Agent / Power Platform /  Power Automate / Power App / Power BI / Tableau / SQL / PYTHON / HTML / CSS
 
 #### Check out my Project Illustrations:
 
