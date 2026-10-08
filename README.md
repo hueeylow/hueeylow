@@ -13,9 +13,24 @@ Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My back
 <th colspan="2" align="left">Power Platform</th>
 </tr>
 
+
+
 <tr>
-     <td><b><a href="https://github.com/hueeylow/power_app/blob/main/chopemydesk.md" target="_blank">(1) Chope My Desk Portal with Power App </a> </b><br><br> 
-Hotdesking offers flexibility and better use of office space, but without a centralised booking system, finding an available desk can quickly become a hassle. Chope My Desk Portal, built as a Microsoft Power Apps Canvas App, simplifies the experience by providing one centralised platform to check desk availability, book a desk, and manage reservations. This project showcases the application’s process design, workflow, and functionality for a smarter hotdesking experience.
+     <td><b><a href="https://github.com/hueeylow/power_app/blob/main/smartserve.md" target="_blank">(1) SmartServe AI Corporate Service Agent </a> </b><br><br> 
+<b>SmartServe AI</b> is a corporate service request solution built using Microsoft Power Apps and Copilot Studio, designed to provide user with a seamless way to raise workplace service requests. User can submit tickets through a structured form or engage with an AI-powered conversational agent that gathers relevant information, confirms the request, and initiates ticket submission.
+     
+</td>
+<td>
+
+<a href="https://github.com/hueeylow/power_app/blob/main/chopemydesk.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/chopelogo.png" height="1200" width="1850"/> </a></td>
+ </tr>
+
+
+
+
+<tr>
+     <td><b><a href="https://github.com/hueeylow/power_app/blob/main/chopemydesk.md" target="_blank">(2) Chope My Desk Portal with Power App </a> </b><br><br> 
+Hotdesking offers flexibility and better use of office space, but without a centralised booking system, finding an available desk can quickly become a hassle. <b>Chope My Desk Portal</b>, built as a Microsoft Power Apps Canvas App, simplifies the experience by providing one centralised platform to check desk availability, book a desk, and manage reservations. This project showcases the application’s process design, workflow, and functionality for a smarter hotdesking experience.
      
 </td>
 <td>
@@ -24,7 +39,7 @@ Hotdesking offers flexibility and better use of office space, but without a cent
  </tr>
 
 <tr>
-     <td><b><a href="https://github.com/hueeylow/power_automate/blob/main/multi_appvr.md" target="_blank">(2) Expense Claim Multi-Approval using Power Automate & SharePoint List</a> </b><br><br> 
+     <td><b><a href="https://github.com/hueeylow/power_automate/blob/main/multi_appvr.md" target="_blank">(3) Expense Claim Multi-Approval using Power Automate & SharePoint List</a> </b><br><br> 
 A streamlined expense approval solution built using Power Automate and SharePoint Lists to automate a two-level approval workflow. Expense claims are routed to the requester’s manager for first-level approval, followed by Finance for second-level approval. The solution automatically updates approval statuses in SharePoint and sends timely Teams notifications to requestors. This reduces manual intervention, improves efficiency and transparency, and provides centralized tracking and visibility throughout the expense approval process.
      
 </td>
@@ -43,7 +58,7 @@ A streamlined expense approval solution built using Power Automate and SharePoin
 </tr>
 
 <tr>
-     <td><b><a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(3) Health Supplement Sales Visualisation with Python</a> </b><br><br> 
+     <td><b><a href="https://github.com/hueeylow/python/blob/main/data_w_python.md" target="_blank">(4) Health Supplement Sales Visualisation with Python</a> </b><br><br> 
      Visualising data with Python unlocks powerful ways to transform raw data into actionable insights using libraries like Matplotlib, Plotly, and Seaborn. In my illustration project, I leveraged multiple advanced visualization techniques to uncover trends, patterns, and performance drivers within the sales data of a Health Supplements Company. Through clear and informative charts, the insights highlight key opportunities for business growth and supports data-driven decision-making.
      
 </td>
@@ -54,7 +69,7 @@ A streamlined expense approval solution built using Power Automate and SharePoin
 
    
   <tr>
-     <td><b><a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(4) Hypertension Prediction with Machine Learning</a> </b><br><br>
+     <td><b><a href="https://github.com/hueeylow/python/blob/main/classification_python.md" target="_blank">(5) Hypertension Prediction with Machine Learning</a> </b><br><br>
      Logistic regression is a widely used machine learning technique for binary classification that predicts the probability of an outcome and classifies individuals based on learned patterns. In this illustration, a hypertension dataset was utilized to explore key risk factors and classify individuals according to their likelihood of developing hypertension. This approach not only reveals the underlying relationships within the data but also demonstrates the practical application of logistic regression in predicting health outcomes and supporting data-driven decision-making.
      
      
@@ -70,7 +85,7 @@ A streamlined expense approval solution built using Power Automate and SharePoin
 </tr>
 
 <tr>
-     <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(5) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my NUS-ISS practicum assessment which was designed and built to simulate a performance monitoring tool on testing activities of a digital fintech product. Some key features of the dashboard are – Test Execution Status, Performance Metrics, User Story Points Coverage, Defect metrics. The primary users are testers, developers, product owners, and business analysts who will leverage the dashboard to track testing progress, monitor defect status and prioritise issues. The dataset utilises self-populated data that mirror the likely challenges encountered in product development. </td>
+     <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(6) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my NUS-ISS practicum assessment which was designed and built to simulate a performance monitoring tool on testing activities of a digital fintech product. Some key features of the dashboard are – Test Execution Status, Performance Metrics, User Story Points Coverage, Defect metrics. The primary users are testers, developers, product owners, and business analysts who will leverage the dashboard to track testing progress, monitor defect status and prioritise issues. The dataset utilises self-populated data that mirror the likely challenges encountered in product development. </td>
 
 <td>
 <a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank"><img src= "https://github.com/user-attachments/assets/13b7a3f0-741b-4984-95d4-7e5a2fb5b922"" height="180" width="280"/> </a></td>
@@ -78,7 +93,7 @@ A streamlined expense approval solution built using Power Automate and SharePoin
 
    
   <tr>
-     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">(6) Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.  </td>
+     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">(7) Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.  </td>
 
    
   <td>
@@ -87,7 +102,7 @@ A streamlined expense approval solution built using Power Automate and SharePoin
   </tr>
 
    <tr>
-     <td><b> <a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">(7) Tableau: Case Study on London Bus KPI Data Story</a> </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to identify key operational issues through drawing insights from  the performance data and propose recommmendations to address the underlying issues that resulted high incident rates. 
+     <td><b> <a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">(8) Tableau: Case Study on London Bus KPI Data Story</a> </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to identify key operational issues through drawing insights from  the performance data and propose recommmendations to address the underlying issues that resulted high incident rates. 
     </td>
   <td>
 
@@ -101,7 +116,7 @@ A streamlined expense approval solution built using Power Automate and SharePoin
 
 <th colspan="2" align="left">SQL</th>
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(8) Building SQL Database: Housing Built-To-Order </a> </b><br><br>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(9) Building SQL Database: Housing Built-To-Order </a> </b><br><br>
 The custom-built SQL database demo was to emphasise the importance of creating efficient and well-organised data table structures. A thoughtful structured dataset not only improves performance and query response time, but also allow seamless integration with other applications, such as generating dynamic query results through user interfaces or enabling real-time data analytics.
      </td>
   <td>
@@ -110,7 +125,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
 
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(9) Data Cleansing with SQL </a> </b><br><br>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(10) Data Cleansing with SQL </a> </b><br><br>
      We are connected with data in almost everywhere of our lives. The collected data are often in complex and unstructured form that require data cleansing steps to transform them into a usable format, ensuring accuracy and reliability for further analysis and decision-making. In this demo, I will walk through some essential steps of data cleansing using SQL to process raw data for more effective use.
      </td>
   <td>
@@ -118,7 +133,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
   </tr>
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">(10) SQL Query Methods </a> </b><br><br>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">(11) SQL Query Methods </a> </b><br><br>
 Structured Query Language (SQL) is a powerful scripting language where it helps to manipulate data in relational databases like Microsoft SQL, Oracle, mySQL, PostgreSQL, and Microsoft Access. It is essential for data management and analysis in large organisations, enabling efficient extraction of valuable insights. Find out various ways to query a database, from basic data retrieval to more advanced operations in navigating a relational dataset.
      </td>
   <td>
